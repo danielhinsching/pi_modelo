@@ -17,7 +17,7 @@ Links do projeto:
 -   [Documentação (esse documento)](github.com/danielhinsching/pi-modelo)
 -   Backend: [Repositório](https://github.com/luisc5martins/projeto-garagem) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend: [Repositório](https://github.com/luisc5martins/fake-cars-vue) e [Publicação](https://pi-frontend.herokuapp.com/)
--   Figma: [Link](https://www.figma.com/design/UNejcAp4EcZwDUHEsXCxF9/Fake-Cars-Tables?t=LfNSotsEFVfIicLk-1)
+-   Figma: [Link](https://www.figma.com/design/2dEfOYPSMhYV2oEPYmzEim/FAKECARS?t=LfNSotsEFVfIicLk-1)
 
 **Como usar esse modelo para o Projeto Integrador**
 
