@@ -11,6 +11,7 @@ Professor: [Marco André Mendes](github.com/marcoandre)
 Equipe:
 - [Daniel](github.com/danielhinsching)
 - [Luís](github.com/luisc5martins)
+- [Pedro](github.com/luisc5martins)
 
 Links do projeto:
 -   [Documentação (esse documento)](github.com/danielhinsching/pi-modelo)
